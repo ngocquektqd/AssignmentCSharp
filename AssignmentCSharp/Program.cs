@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AssignmentCSharp.Asignment1;
+using AssignmentCSharp.Assignment2;
 
 namespace AssignmentCSharp
 {
