@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asignment1\Fibonaci.cs" />
+    <Compile Include="Asignment1\Songuyento.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -50,7 +52,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Asignment1\" />
+    <Folder Include="Assignment2\" />
+    <Folder Include="Assignment3\" />
+    <Folder Include="Assignment4\" />
+    <Folder Include="Assignment5\" />
+    <Folder Include="Assignment6\" />
+    <Folder Include="Assignment7\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AssignmentCSharp.Asignment1;
 
 namespace AssignmentCSharp
 {
@@ -10,8 +11,10 @@ namespace AssignmentCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.ReadKey();
+            Songuyento snt = new Songuyento();
+            snt.songuyento();
+            Fibonaci fbn = new Fibonaci();
+            fbn.fibonaci();
         }
     }
 }
